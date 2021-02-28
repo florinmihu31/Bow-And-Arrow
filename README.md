@@ -2,7 +2,7 @@
 
 ### Description
 * First homework for the Computer Graphics course.
-* The project a simulation of the popular 2D game, Bow and Arrow.
+* The project is a simulation of the popular 2D game, Bow and Arrow.
 * It consists of a simple interface, which contains a bow, an arrow, red and yellow balloons and blue shurikens.
 * The aim of the player is to gain as many points as possible by hitting red balloons and shuriken, while trying to stay alive avoiding being hit by shurikens.
 * The objectives of this homework were:
