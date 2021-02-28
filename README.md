@@ -11,7 +11,7 @@
 	* Getting used to rendering meshes into the scene
 
 ### Languages
-* The project was built using object-oriented programming in C++ and the OpenGL framework
+* The project was built using object-oriented programming in C++ and the OpenGL framework.
 
 ### Screenshots
 ![BowAndArrow1](https://imgur.com/641D8Fy.png)
